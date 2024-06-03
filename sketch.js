@@ -8,7 +8,7 @@ function draw() {
 
 function draw() {
     stroke ("blue");
-    FileList("red");
+    Fill("red");
 
     // console.log(mouseIsPressed)
     
